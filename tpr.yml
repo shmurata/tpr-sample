@@ -1,0 +1,7 @@
+apiVersion: extensions/v1beta1
+kind: ThirdPartyResource
+metadata:
+  name: hello-world.example.com
+description: "hello world object"
+versions:
+- name: v1
